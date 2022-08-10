@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HypherModern
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning CPP
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: https://www.facebook.com/baolee.1704
 
